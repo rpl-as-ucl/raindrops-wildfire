@@ -1,13 +1,8 @@
 ---
-permalink: /people
 title: "UCL People"
-excerpt: "UCL People"
-author_profile: true
-redirect_from: 
-  - /people/
-  - /people.html
+layout: archive
+permalink: /people/
 ---
-
 
 ## Academic Staff
 <img src='https://rpl-as-ucl.github.io/raindrops-wildfire/images/logos/DimitriosKanoulas.png' width="200">

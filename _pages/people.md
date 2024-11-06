@@ -61,3 +61,15 @@ MEng in Robotics & AI
 MEng in Robotics & AI
 
 **Research Interests:** Autonomous Aerial Systems, Robotic Localization and Mapping, Environmental Perception and Sensing, Bio-inspired Robotics
+
+---
+
+<img src='https://rpl-as-ucl.github.io/raindrops-wildfire/images/logos/YukunWang.png' width="200">
+
+### Damilola Ogunleye
+
+MEng in Robotics & AI
+
+**Research Interests:** Human-Robot Interaction, Computer Vision and Natural Language Processing
+
+

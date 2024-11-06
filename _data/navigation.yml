@@ -2,3 +2,5 @@
 main:
   - title: "UCL People"
     url: /people/
+  - title: "UCL Robots"
+    url: /robots/

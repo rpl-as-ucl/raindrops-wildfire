@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "RainDrops Wildfire"
-  avatar           : "images/logos/raindrops_logo.png"
+  avatar           : "logos/raindrops_logo.png"
   bio              : "RAINDROPS: Robotic Aerial InterveNtion for wilDfiRe Observation and suPpreSsion"
   location         : "London, UK"
   employer         :

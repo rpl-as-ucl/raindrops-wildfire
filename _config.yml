@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "RainDrops Wildfire"
 description              : &description "personal description"
 url                      : https://rpl-as-ucl.github.io
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/raindrops-wildfire"
 repository               : "rpl-as-ucl/raindrops-wildfire/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)

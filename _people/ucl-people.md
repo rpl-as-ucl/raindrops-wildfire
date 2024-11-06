@@ -25,7 +25,7 @@ MEng in Robotics & AI
 **Research Interests:** Intelligent Autonomous Systems, Human Robot Interaction, Mobile Robotics
 
 
-<img src='https://rpl-as-ucl.github.io/raindrops-wildfire/images/logos/KevinXZYXie,png' width="200">
+<img src='https://rpl-as-ucl.github.io/raindrops-wildfire/images/logos/KevinXZYXie.png' width="200">
 
 ### Kevin (XZY) Xie
 

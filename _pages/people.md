@@ -1,6 +1,12 @@
+---
+permalink: /people
+title: "UCL People"
+excerpt: "UCL People"
+author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /people/
+  - /people.html
+---
 
 
 ## Academic Staff

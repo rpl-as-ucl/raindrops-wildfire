@@ -1,3 +1,8 @@
+redirect_from: 
+  - /about/
+  - /about.html
+
+
 ## Academic Staff
 <img src='https://rpl-as-ucl.github.io/raindrops-wildfire/images/logos/DimitriosKanoulas.png' width="200">
 

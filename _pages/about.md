@@ -18,11 +18,11 @@ RAINDROPS is a student-driven collaboration between University College London (U
 The envisioned solution combines two classes of systems, namely those tasked with observation and fire detection (“Observation UAS”) and those tasked with fire suppression (“Fire-suppression UAS”). The first set of robots emphasizes long-endurance and exploits a multi-modal sensing payload, sensor fusion algorithms, and deep learning to detect and localize incip-ient-stage wildfires rapidly. The platforms will implement meteorologically-informed path planning and multi-agent teaming such that the fire search and detection process is autonomous. The UAS tasked with fire suppression integrate a specialized payload that is released and dropped on an identified fire location to suppress it. With the location of an incipient-stage wildfire detected by the Observation UAS and communicated to the team, Fire-suppression UAS are tasked to rapidly fly towards the area of interest to deliver their suppression payloads. The complete system-of-systems emphasizes autonomous operation and scalability of costs to facilitate adoption.
 
 ## **Key persons**
-Prof. Kostas Alexis (NTNU) [website]
-Prof. Tor Arne Johansen (NTNU) [website]
-Prof. Randy Beard (BYU)[website]
-Prof. Tim McLain (BYU)[website]
-Prof. Dimitrios Kanoulas (UCL) [website]
+- Prof. Kostas Alexis (NTNU) [website]
+- Prof. Tor Arne Johansen (NTNU) [website]
+- Prof. Randy Beard (BYU)[website]
+- Prof. Tim McLain (BYU)[website]
+- Prof. Dimitrios Kanoulas (UCL) [website]
 
 
 <img src='https://rpl-as-ucl.github.io/raindrops-wildfire/images/logos/raindrops-observation.png' width="800">

@@ -15,4 +15,38 @@
 
 MEng in Robotics & AI
 
-**Research Interests:** bionic robots, perception and learning
+**Research Interests:** Bionic Robots, Perception and Learning
+
+
+### Hassan Shahzad
+
+MEng in Robotics & AI
+
+**Research Interests:** Intelligent Autonomous Systems, Human Robot Interaction, Mobile Robotics
+
+
+<img src='https://rpl-as-ucl.github.io/raindrops-wildfire/images/logos/KevinXZYXie,png' width="200">
+
+### Kevin (XZY) Xie
+
+MEng in Robotics & AI
+
+**Research Interests:** ML, General Purpose Agent, Continuous time neural networks
+
+
+<img src='https://rpl-as-ucl.github.io/raindrops-wildfire/images/logos/NgKheeOng.png' width="200">
+
+### Ng Khee Ong
+
+MEng in Robotics & AI
+
+**Research Interests:** Robot Localization, Natural language processing & Autonomous Navigation
+
+
+<img src='https://rpl-as-ucl.github.io/raindrops-wildfire/images/logos/YukunWang.png' width="200">
+
+### Yukun Wang
+
+MEng in Robotics & AI
+
+**Research Interests:** Autonomous Aerial Systems, Robotic Localization and Mapping, Environmental Perception and Sensing, Bio-inspired Robotics

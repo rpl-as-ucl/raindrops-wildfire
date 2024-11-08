@@ -73,3 +73,12 @@ MEng in Robotics & AI
 **Research Interests:** Human-Robot Interaction, Computer Vision and Natural Language Processing
 
 
+---
+
+<img src='https://rpl-as-ucl.github.io/raindrops-wildfire/images/logos/YusufHeadshot.png' width="200">
+
+### Yusuf Adekola
+
+MEng in Robotics & AI
+
+**Research Interests:** 

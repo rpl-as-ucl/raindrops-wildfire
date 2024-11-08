@@ -11,9 +11,6 @@ permalink: /people/
 
 **Professor in Robotics & AI**
 
-**Research Interests:** perception & learning for mobile robot navigation, articulated robot manipulation, and legged robot locomotion
-
-
 ## Students
 
 <img src='https://rpl-as-ucl.github.io/raindrops-wildfire/images/logos/SebastianRen.png' width="200">
@@ -22,15 +19,11 @@ permalink: /people/
 
 MEng in Robotics & AI
 
-**Research Interests:** Bionic Robots, Perception and Learning
-
 ---
 
 ### Hassan Shahzad
 
 MEng in Robotics & AI
-
-**Research Interests:** Intelligent Autonomous Systems, Human Robot Interaction, Mobile Robotics
 
 ---
 
@@ -40,8 +33,6 @@ MEng in Robotics & AI
 
 MEng in Robotics & AI
 
-**Research Interests:** ML, General Purpose Agent, Continuous time neural networks
-
 ---
 
 <img src='https://rpl-as-ucl.github.io/raindrops-wildfire/images/logos/NgKheeOng.png' width="200">
@@ -49,8 +40,6 @@ MEng in Robotics & AI
 ### Ng Khee Ong
 
 MEng in Robotics & AI
-
-**Research Interests:** Robot Localization, Natural language processing & Autonomous Navigation
 
 ---
 
@@ -60,8 +49,6 @@ MEng in Robotics & AI
 
 MEng in Robotics & AI
 
-**Research Interests:** Autonomous Aerial Systems, Robotic Localization and Mapping, Environmental Perception and Sensing, Bio-inspired Robotics
-
 ---
 
 <img src='https://rpl-as-ucl.github.io/raindrops-wildfire/images/logos/DamilolaOgunleye.png' width="200">
@@ -69,8 +56,6 @@ MEng in Robotics & AI
 ### Damilola Ogunleye
 
 MEng in Robotics & AI
-
-**Research Interests:** Human-Robot Interaction, Computer Vision and Natural Language Processing
 
 
 ---
@@ -81,4 +66,18 @@ MEng in Robotics & AI
 
 MEng in Robotics & AI
 
-**Research Interests:** 
+---
+
+<img src='https://rpl-as-ucl.github.io/raindrops-wildfire/images/logos/YanPan.png' width="200">
+
+### Yan Pan
+
+MEng in Robotics & AI
+
+---
+
+<img src='https://rpl-as-ucl.github.io/raindrops-wildfire/images/logos/VaibhavMehra.png' width="200">
+
+### Vaibhav Mehra
+
+MEng in Robotics & AI

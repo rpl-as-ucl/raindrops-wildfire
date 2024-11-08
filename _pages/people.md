@@ -64,7 +64,7 @@ MEng in Robotics & AI
 
 ---
 
-<img src='https://rpl-as-ucl.github.io/raindrops-wildfire/images/logos/YukunWang.png' width="200">
+<img src='https://rpl-as-ucl.github.io/raindrops-wildfire/images/logos/DamilolaOgunleye.png' width="200">
 
 ### Damilola Ogunleye
 

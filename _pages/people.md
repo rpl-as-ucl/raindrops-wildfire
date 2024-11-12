@@ -21,6 +21,8 @@ MEng in Robotics & AI
 
 ---
 
+<img src='https://rpl-as-ucl.github.io/raindrops-wildfire/images/logos/HassanShahzad.png' width="200">
+
 ### Hassan Shahzad
 
 MEng in Robotics & AI
